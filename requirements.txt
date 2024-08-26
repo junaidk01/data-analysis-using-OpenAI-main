@@ -1,0 +1,11 @@
+streamlit
+pandas
+pandasai
+pydantic
+python-dotenv
+matplotlib
+seaborn
+openpyxl
+xlrd>=1.0.0
+
+
